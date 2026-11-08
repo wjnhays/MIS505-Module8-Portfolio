@@ -1,0 +1,17 @@
+[
+    {
+        "column_name": "Year",
+        "data_type": "integer",
+        "meaning": "Calendar year, from 2001 to 2020."
+    },
+    {
+        "column_name": "Primary Enrollment",
+        "data_type": "float",
+        "meaning": "Number of pupils enrolled in primary education in Luxembourg (World Bank indicator SE.PRM.ENRL). The values for 2009 and 2020 were missing in the source and were filled in by interpolation."
+    },
+    {
+        "column_name": "GDP",
+        "data_type": "float",
+        "meaning": "GDP per capita in Luxembourg, in current US dollars (World Bank indicator NY.GDP.PCAP.CD)."
+    }
+]
